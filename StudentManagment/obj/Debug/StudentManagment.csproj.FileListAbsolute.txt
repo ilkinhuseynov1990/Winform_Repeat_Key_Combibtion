@@ -1,0 +1,12 @@
+C:\Users\Ilkin\Desktop\Repeat\StudentManagment\StudentManagment\bin\Debug\StudentManagment.exe.config
+C:\Users\Ilkin\Desktop\Repeat\StudentManagment\StudentManagment\bin\Debug\StudentManagment.exe
+C:\Users\Ilkin\Desktop\Repeat\StudentManagment\StudentManagment\bin\Debug\StudentManagment.pdb
+C:\Users\Ilkin\Desktop\Repeat\StudentManagment\StudentManagment\obj\Debug\StudentManagment.csproj.AssemblyReference.cache
+C:\Users\Ilkin\Desktop\Repeat\StudentManagment\StudentManagment\obj\Debug\StudentManagment.Dashboard.resources
+C:\Users\Ilkin\Desktop\Repeat\StudentManagment\StudentManagment\obj\Debug\StudentManagment.Form1.resources
+C:\Users\Ilkin\Desktop\Repeat\StudentManagment\StudentManagment\obj\Debug\StudentManagment.Properties.Resources.resources
+C:\Users\Ilkin\Desktop\Repeat\StudentManagment\StudentManagment\obj\Debug\StudentManagment.csproj.GenerateResource.cache
+C:\Users\Ilkin\Desktop\Repeat\StudentManagment\StudentManagment\obj\Debug\StudentManagment.csproj.CoreCompileInputs.cache
+C:\Users\Ilkin\Desktop\Repeat\StudentManagment\StudentManagment\obj\Debug\StudentManagment.exe
+C:\Users\Ilkin\Desktop\Repeat\StudentManagment\StudentManagment\obj\Debug\StudentManagment.pdb
+C:\Users\Ilkin\Desktop\Repeat\StudentManagment\StudentManagment\obj\Debug\StudentManagment.Delete.resources
